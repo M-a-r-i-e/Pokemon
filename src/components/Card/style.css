@@ -1,0 +1,14 @@
+.pokeContainer {
+    background-color: lightgray;
+    margin: 10px;
+    border-radius: 10px;
+    max-width: 400px;
+    max-height: 400px;
+    min-width: 300px;
+    min-width: 300px;
+    justify-self: center;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
